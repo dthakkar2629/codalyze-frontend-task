@@ -1,0 +1,27 @@
+.buttons {
+    display: flex;
+    width: 60%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.buttons button{
+    background-color: white;
+    border-radius: 2px;
+    border: 1px solid #d9d9d9;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.delete-button-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
